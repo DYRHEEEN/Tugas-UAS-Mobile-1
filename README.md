@@ -24,5 +24,5 @@ Sebelumnya saya akan menjelaskan terlebih dahulu, ada apa saja didalam aplikasi 
 ### Source Code
 Disini saya tidak akan menampilkan source codenya disini, karena akan terlalu banyak dan memakan tempat dan hanya membuat pusing melihatnya. Saya sudah push semua file dari project yang sudah saya buat dan jika menginginkan bisa mendownload beberapa file yang dibutuhkan saja atau clone repository ini sepenuhnya. Sebagai gantinya, Saya hanya akan menjelaskan sedikit dari apa saja yang sudah saya kerjakan.
 
-- MainActivity.java [Download File](MainActivity.java)<br>
+- MainActivity.java [Download File](TugasSepuluh/app/src/main/java/com/example/tugassepuluh/MainActivity.java)<br>
 Di MainActivity ini berisi program java yang memiliki fungsi penghubung yaitu intent
