@@ -31,7 +31,10 @@ Disini saya tidak akan menampilkan source codenya disini, karena akan terlalu ba
     Ini adalah logo yang saya gunakan, Saya menggunakan logo dari channel youtube yang saya punya yaitu CREATIVEGG.
   - Hasil Run
     Berikut ini adalah hasil run nya :<br>
-    https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/5e1661b6-9ed8-40a1-b355-c6b60ae7b6c4 <br><br>
+    
+https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/123f5194-2c55-4b92-a469-30ee7635af6e
+
+<br><br>
 
 
 - Source Code Utama
