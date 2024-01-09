@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Intent APP V2</string>
+    <string name="app_name">Final APP</string>
 
     <string name="map">Show Map</string>
 
@@ -16,9 +16,12 @@
 
     <string name="hello_text">>_Hello World!</string>
 
-    <string name="button_label_toast">Desk</string>
     <string name="button_label_count">Count</string>
     <string name="count_initial_value">0</string>
+    <string name="button_label_finish">Reset</string>
+    <string name="enter_fibonacci_limit">Masukan Limit Angka</string>
+
+    <string name="button_label_toast">Desk</string>
     <string name="toast_message">Project Count</string>
 
     <string name="button_main">Send</string>

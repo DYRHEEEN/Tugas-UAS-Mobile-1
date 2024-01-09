@@ -5,6 +5,9 @@
     <color name="grey">#323232</color>
     <color name="blue">#0004FF</color>
     <color name="green">#08BD02</color>
+    <color name="color1">#FF0000</color>
+    <color name="color2">#00FF00</color>
+    <color name="color3">#0000FF</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
