@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Intent APP V2</string>
+
+    <string name="map">Show Map</string>
+
+    <string name="project_hello">Project Hello World</string>
+    <string name="project_count">Project Count</string>
+    <string name="project_sianida">Project Sianida</string>
+    <string name="project_twoactivity">Project TwoActivity</string>
+    <string name="project_set_alarm">Project Set Alarm</string>
+
+    <string name="Tab_1">Action</string>
+    <string name="Tab_2">Horror</string>
+    <string name="Tab_3">Comedy</string>
+
+
+    <string name="hello_text">>_Hello World!</string>
+
+    <string name="button_label_toast">Desk</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Project Count</string>
+
+    <string name="button_main">Send</string>
+    <string name="text_header_reply">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Reply Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!</string>
+
+    <string name="article_teks">Kasus kopi sianida berawal dari pertemuan Jessica Wongso, Mirna, dan Hanie Boon Juwita di Kafe Olivier Grand Indonesia (GI) pada 6 Januari 2016. Jessica datang lebih dahulu dan memesan tempat dilayani resepsionis Cindy yang menawarkan meja nomor 54.
+
+Lalu, ia pergi dan kembali lagi membawa tas kertas, kemudian memesan es kopi Vietnam serta dua koktail. Setelah ia membayar, penyaji mengantarkan minuman ke meja 54. \n\n
+
+
+Beberapa menit kemudian, Mirna dan Hani datang secara bersamaan. Mirna meminum es kopi Vietnam dan mengatakan rasanya tidak enak sambil mengibaskan tangan di depan mulutnya.\n\n
+
+
+Tidak lama kemudian, tubuh Mirna kejang, tidak sadarkan diri, dan mengeluarkan buih dari mulut. Mirna langsung dibawa ke klinik di GI. Kemudian, suami Mirna, Arief Soemarko datang membawanya ke Rumah Sakit (RS) Abdi Waluyo ditemani Jessica dan Hanie.
+
+Namun, nyawa Mirna tidak terselamatkan. Ayah Mirna, Edi Dharmawan Salihin langsung melaporkan kematian anaknya ke Polsek Metro Tanah Abang karena dianggap tidak wajar.\n
+
+
+Tiga hari setelah kematian, Direktur Reserse Kriminal Umum Polda Metro Jaya, Krishna Murti meminta izin kepada ayahnya agar diautopsi. Namun, jenazah hanya diizinkan untuk diambil sampel dari bagian tubuhnya dan menemukan zat racun. Lalu, pada 10 Januari 2016, jenazah Mirna dimakamkan di Gunung Gadung, Bogor.\n\n
+
+
+<b>Pra-rekonstruksi dan penetapan tersangka</b>\n
+
+Mengacu Antara, satu hari setelah Mirna dikubur, polisi melangsungkan pra-rekonstruksi di Kafe Olivier yang menghadirkan Jessica, Hanie, dan pegawai Olivier. Setelah itu, Puslabfor Mabes Polri mengumumkan, ada sianida dalam kopi dan lambung Mirna.
+
+Penyidik Polisi kemudian memanggil Jessica dan keluarga Mirna, yaitu Dharmawan, Sendy Salihin (saudari kembarnya), serta Arief. Penyidik melakukan gelar perkara, menetapkan Jessica sebagai tersangka pembunuhan, dan menangkapnya di sebuah hotel Jakarta Utara.\n\n
+
+
+<b>Rekonstruksi dan Praperadilan</b>\n
+
+Pada Februari 2016, polisi menggelar rekonstruksi tewasnya Mirna di Kafe Olivier. Jessica menolaknya karena dinilai itu sebagai "versi polisi". Setelah itu, ia menjalani tes kejiwaan di RS Cipto Mangunkusumo untuk mengetahui pribadi dan motif.
+
+Kemudian, penasihat hukum Jessica mengajukan pra-peradilan ke Pengadilan Negeri (PN) Jakarta Pusat (Jakpus) karena penetapan tersangka dianggap tidak sah. Namun, upaya tersebut pupus sehingga Jessica ditahan sampai akhir Mei 2016.
+
+Persidangan perdana dan saksi kunci
+
+Pada 15 Juni 2016, sidang perdana Jessica digelar dengan agenda pembacaan eksepsi oleh pengacara Jessica, Sordame Purba. Ia menyebut dakwaan jaksa terlalu dangkal untuk tuduhan pembunuhan berencana. Lalu, pada 28 Juni 2016, Hakim PN Jakpus menolak seluruh eksepsi karena dakwaan jaksa telah lengkap dan jelas.
+
+Pada 12 Juli 2016, keluarga Mirna (Dharmawan, Sendy, dan Arief) memberikan keterangan yang mengarah kepada kecurigaan Jessica. Esoknya, saksi kunci, Hanie dihadirkan. Ia sempat mencicipi es kopi Vietnam dan merasakan rasa panas di lidah. Ia juga menceritakan situasi kedatangannya di kafe sampai di RS Abdi Waluyo.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">Action</string>
+    <string name="second">Comedy</string>
+    <string name="third">Romance</string>
+
+
+    <string name="movies">MOVIES</string>
+
+    <string name="action1">TRANSFORMERS: Rise Of The Beasts</string>
+    <string name="action2">Gojira -1.0</string>
+    <string name="action3">Game of Thrones</string>
+    <string name="action4">Spider-Man: Across the Spider-Verse</string>
+    <string name="sinopsisa1">Kembali ke aksi dan tontonan yang telah menarik perhatian penonton bioskop di seluruh dunia, Transformers: Rise of the Beasts akan membawa penonton pada petualangan keliling dunia tahun 90an bersama Autobots dan memperkenalkan faksi baru Transformers - the Maximals - untuk bergabung dengan mereka sebagai sekutu dalam pertempuran yang ada untuk bumi. Disutradarai oleh Steven Caple Jr. dan dibintangi oleh Anthony Ramos dan Dominique Fishback.</string>
+    <string name="sinopsisa2">Merasa seolah-olah dia terlalu sering menipu kematian secara tidak adil, Shikishima, seorang pilot Kamikaze yang masih hidup diserang di Pulau Odo bersama dengan banyak insinyur pesawat perang oleh monster raksasa. Setelah para insinyur meninggal karena Shikishima gagal mengalihkan perhatian monster itu, rasa bersalah yang sangat besar membebani dirinya, terutama setelah seorang wanita tunawisma dan seorang bayi pindah ke rumahnya ketika dia kembali. Shikishima, yang sekarang menjalankan misi pribadi, bekerja sama dengan sekelompok besar veteran untuk akhirnya mengalahkan monster yang dikenal sebagai Godzilla.</string>
+    <string name="sinopsisa3">Di benua mitos Westeros, beberapa keluarga kuat berjuang untuk menguasai Tujuh Kerajaan. Saat konflik meletus di dunia manusia, musuh lama sekali lagi bangkit dan mengancam mereka semua. Sementara itu, ahli waris terakhir dari dinasti yang baru saja direbut berencana merebut kembali tanah air mereka dari seberang Laut Sempit.</string>
+    <string name="sinopsisa4">Miles Morales kembali untuk bab berikutnya dari kisah Spider-Verse pemenang Oscar®, sebuah petualangan epik yang akan membawa Spider-Man di lingkungan penuh waktu dan ramah di Brooklyn melintasi Multiverse untuk bergabung dengan Gwen Stacy dan tim baru Spider-Man. Orang-orang harus berhadapan dengan penjahat yang lebih kuat dari apapun yang pernah mereka temui.</string>
+    <string name="ratinga1">6.0</string>
+    <string name="ratinga2">8.4</string>
+    <string name="ratinga3">9.2</string>
+    <string name="ratinga4">6.0</string>
+
+    <string name="comedy1">Barbie</string>
+    <string name="comedy2">Yu Yu Hakusho</string>
+    <string name="comedy3">One Piece</string>
+    <string name="comedy4">Elemental</string>
+    <string name="sinopsisc1">Barbie the Doll hidup dalam kebahagiaan dalam masyarakat matriarkal Barbieland dan merasa nyaman dengan perannya di dunia dalam berbagai versi Barbie selama bertahun-tahun yang menunjukkan kepada gadis-gadis yang bermain dengannya bahwa mereka bisa menjadi apa pun dan siapa pun yang mereka inginkan. Di sisi lain, Ken, yang juga tinggal di Barbieland, luput dari perhatian kecuali dalam kaitannya dengan Barbie, yang satu langkah di atas boneka lain di Barbieland, seperti Allan. Suatu hari, Barbie Stereotip mulai memiliki perasaan yang belum pernah dia alami yang menyebabkan dunianya seakan berantakan. </string>
+    <string name="sinopsisc2">Ceritanya berkisar pada Yusuke Urameshi, yang menghabiskan hari-harinya berkelahi dan meninggal dalam kecelakaan saat mencoba melindungi seorang anak kecil. Saat dia bergulat dengan kenyataan bahwa dia sedang memandang rendah mayatnya, seorang wanita bernama Botan yang menyebut dirinya sebagai pemandu dunia roh menyampaikan kepadanya kebenaran yang mengejutkan: tidak ada yang mengharapkan anak nakal seperti Yusuke mati karena melakukan tindakan kebaikan.</string>
+    <string name="sinopsisc3">Bajak laut kejam yang kejam menguasai lautan, dan hanya yang terkuat yang memiliki kesempatan untuk mengklaim harta karun mistis yang dikenal sebagai \'One Piece\' yang ditinggalkan oleh bajak laut terhebat di antara mereka semua, Gold Roger. Bertahun-tahun setelah kematian Gold Roger, seorang anak laki-laki bernama Monkey D. Luffy bermimpi untuk membesarkan krunya sendiri, menemukan One Piece, dan menyatakan dirinya sebagai Raja Bajak Laut.</string>
+    <string name="sinopsisc4">Film ini berkisah tentang pasangan tak terduga, Ember dan Wade, di sebuah kota tempat para penghuni api, air, darat, dan udara hidup bersama. Wanita muda yang berapi-api dan pria yang suka mengikuti arus akan menemukan sesuatu yang mendasar: seberapa besar kesamaan yang mereka miliki.</string>
+    <string name="ratingc1">6.9</string>
+    <string name="ratingc2">7.4</string>
+    <string name="ratingc3">8.4</string>
+    <string name="ratingc4">7.0</string>
+
+    <string name="romance1">Anyone But You</string>
+    <string name="romance2">No Hard Feelings</string>
+    <string name="romance3">The Little Mermaid</string>
+    <string name="romance4">Holidate</string>
+    <string name="sinopsisr1">Setelah pertemuan pertama yang menarik, Bea dan Ben menyadari bahwa gairah awal mereka yang membara entah kenapa telah menyusut menjadi kesalahpahaman yang sangat dingin. Namun, takdir turun tangan: Dipertemukan kembali di sebuah pernikahan indah di Australia, mereka memilih sandiwara berpasangan. Namun percikan api muncul kembali di tengah pemandangan yang disinari matahari, memaksa mereka untuk menghadapi perasaan mereka yang sebenarnya dan menerima kesempatan kedua dalam cinta.</string>
+    <string name="sinopsisr2">Karakter Lawrence menggambarkan \"ne\'er-do-well\" yang menjawab iklan Craigslist yang dipasang untuk menyewa teman kencan bagi seorang remaja laki-laki yang introvert dan canggung secara sosial, oleh ibu dan ayahnya, yang kebetulan juga sedang mempersiapkan diri untuk kuliah. segera.</string>
+    <string name="sinopsisr3">Putri bungsu Raja Triton, Ariel adalah putri duyung muda yang cantik dan bersemangat yang haus akan petualangan. Ingin mengetahui lebih banyak tentang dunia di luar lautan, Ariel muncul ke permukaan dan jatuh cinta pada Pangeran Eric yang gagah. Mengikuti kata hatinya, dia membuat kesepakatan dengan penyihir laut jahat, Ursula, untuk mengalami kehidupan di darat.</string>
+    <string name="sinopsisr4">Pertemuan acak di konter pengembalian toko memperkenalkan Sloane kepada Jackson. Keduanya bosan dengan mimpi buruk kencan (dia) dan campur tangan keluarga (dia) selama liburan, mereka membuat kesepakatan, di mana mereka bertemu sebagai pasangan hanya selama liburan untuk membuat hidup setidaknya bisa ditoleransi. Perlahan-lahan, sambil mencemooh klise percintaan (dan yang mengejutkan mereka), hubungan mereka tumbuh menjadi sesuatu yang lebih dalam.</string>
+    <string name="ratingr1">6.6</string>
+    <string name="ratingr2">6.4</string>
+    <string name="ratingr3">7.2</string>
+    <string name="ratingr4">6.1</string>
+
+</resources>
