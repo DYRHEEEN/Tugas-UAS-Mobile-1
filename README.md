@@ -33,7 +33,14 @@ Disini saya tidak akan menampilkan source codenya disini, karena akan terlalu ba
     Ini adalah logo yang saya gunakan, Saya menggunakan logo dari channel youtube yang saya punya yaitu CREATIVEGG.
   - Hasil Run
     Berikut ini adalah hasil run nya :<br>
+<<<<<<< HEAD
     https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/3158b9e4-b940-41e1-9ed5-04f79ffbeae0<br><br>
+=======
+    
+https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/123f5194-2c55-4b92-a469-30ee7635af6e
+
+<br><br>
+>>>>>>> 7232983fcbf96882414acfc3e20791e66332c180
 
 
 - Source Code Utama
@@ -54,10 +61,17 @@ Disini saya tidak akan menampilkan source codenya disini, karena akan terlalu ba
   - HelloActivity.java [Lihat File](TugasSepuluh/app/src/main/java/com/example/tugassepuluh/HelloActivity.java)<br>
     Disini saya tidak mengubah apapun isi dari javanya, dengan kata lain saya buat default sedari awal dibuat.
   - activity_hello.xml [Lihat File](TugasSepuluh/app/src/main/res/layout/activity_hello.xml)<br>
+<<<<<<< HEAD
     Seperti yang sudah diketahui ini merupakan layout yang terhubung dengan java nya. Saya hanya menambahkan textview untuk menampilkan android:text "hello_world" nya (text sudah ada di      string.xml), selain itu saya juga mengubah warna text dan menambahkan background agar terlihat lebih menarik.
   - Hasil Run
     
     
+=======
+    Seperti yang sudah diketahui ini merupakan layout yang terhubung dengan java nya. Saya hanya menambahkan textview untuk menampilkan android:text "hello_world" nya (text sudah ada di      string.xml), selain itu saya juga mengubah warna text dan menambahkan background agar terlihat lebih menarik. Beginilah tampilan dari layoutnya :<br>
+    ![image](https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/053aaa84-c74d-4a86-82db-ff5557543529)<br><br>
+  - Hasil Run
+    
+>>>>>>> 7232983fcbf96882414acfc3e20791e66332c180
 
 - Source Code Activity Count
   - CountActivity.java [Lihat File](TugasSepuluh/app/src/main/java/com/example/tugassepuluh/CountActivity.java)<br>
