@@ -87,7 +87,7 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/70779eef-1c2f-48
 
 - Source Code Activity TwoActivity
   - TwoActActivity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/TwoActActivity.java) & TwoAct2Activity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/TwoAct2Activity.java)<br>
-    Kedua java berisi fungsi untuk menjalankan program perpesanan. Kedua java tersebut memiliki peran masing-masing, yang pertama untuk pengirim dan yang kedua untuk fungsi ketika pesan      berhasil terkirim.
+    Kedua java berisi fungsi untuk menjalankan program perpesanan. Kedua java tersebut memiliki peran masing-masing, yang pertama untuk pengirim dan yang kedua untuk fungsi ketika pesan     berhasil terkirim.
   - activity_twoact [Lihat File](TugasUAS/app/src/main/res/layout/activity_sianida.xml) & activity_twoact2 [Lihat File](TugasUAS/app/src/main/res/layout/activity_twoact2.xml)<br>
     Kedua layout ini merupakan tampilannya, yang pertama berfungsi menampilkan saat mengirim pesan dan yang kedua menampilkan saat pesan berhasil terkirim.
   - Hasil Run
@@ -98,16 +98,55 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/4f7542d0-9643-47
 <br><br>
 
 - Source Code Program Alarm
-  Karena program ini hanya merupakan tombol, maka hanya tinggal menambahkan baris code berikut ini dibawah override :<br>
-  ```
-        findViewById(R.id.btnSetAlarm).setOnClickListener(v -> {
-            // Panggil metode untuk mengatur alarm
-            setAlarm();
-        });
-    }
-    private void setAlarm() {
-        Intent alarm = new Intent(AlarmClock.ACTION_SET_ALARM);
-        startActivity(alarm);
-    }
-  ```
+  - Karena program ini hanya merupakan tombol, maka hanya tinggal menambahkan baris code berikut :<br>
+    ```
+    # Tambahkan code ini didalam protected void OnCreate :
+          findViewById(R.id.btnSetAlarm).setOnClickListener(v -> {
+              // Panggil metode untuk mengatur alarm
+              setAlarm();
+          });
+      }
+
+    # Lalu code tambahkan fungsi intent untuk tombolnya :
+      private void setAlarm() {
+          Intent alarm = new Intent(AlarmClock.ACTION_SET_ALARM);
+          startActivity(alarm);
+      }
+    ```
+  - Tidak hanya itu, perlu ditambahkan juga beberapa baris code di AndroidManifest.xml, seperti ini:
+    ```
+    <uses-permission
+          android:name="com.android.alarm.permission.SET_ALARM" />
   
+    dan
+        <action android:name="android.intent.action.SET_ALARM" />
+
+    ```
+  - Hasil Run
+    Berikut adalah hasil run nya :<br>
+
+https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/13a8223e-6984-4696-b750-30c62c9aef11
+
+<br><br>
+
+- Source Code Program Open Map
+  - Sama halnya seperti program alarm yang hanya menggunakan fungsi sebuah tombol, maka hanya code inilah yang diperlukan untuk dapat menjalankan dan membuka maps nya.
+    ```
+    # Tambahkan code ini didalam protected void OnCreate :
+    ImageButton btnshowMap = findViewById(R.id.btnshowMap);
+        btnshowMap.setOnClickListener(v -> {
+            Intent map = new Intent(Intent.ACTION_VIEW, Uri.parse("geo:-6.324307,107.169273"));
+            map.setPackage("com.google.android.apps.maps");
+            startActivity(map);
+        });
+    ```
+  - Hasil Run
+    Berikut adalah hasil run nya :<br>
+
+https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/bac81232-d106-4890-ba58-2bab1215568f
+
+<br><br>
+
+- Source Code Activity Fragment
+  Berbeda dari activity sebelumnya, di activity ini memerlukan banyak java dan layout, karena activity ini terdiri dari beberapa halaman. Perintah tugas dari activity ini adalah, membuat sebuah program atau aplikasi menampilkan daftar film sesuai dengan genre nya. Dan genre yang diperintahkan untuk dibuat ada tiga buah, yakni Action, Comedy, dan Romance.
+  - 
