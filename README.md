@@ -5,10 +5,10 @@ Kelas&ensp; &nbsp; : TI.22.A.1<br>
 Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br><br>
 
 ## KATA PENGANTAR
-Alhamdulillah hirabbil 'alamin, telah sampailah kita diakhir perkuliahan dari mata kuliah pemrograman mobile-1. Di repository ini Saya bertujuan untuk menuntaskan tugas UAS dari mata kuliah tersebut. Terimakasih untuk Bapak Donny Maulana, S.Kom., M.M.S.I. selaku dosen pengampu, sekali lagi Saya mengucapkan terimakasih yang sebesar-besarnya atas bimbingan dan pelajaran yang Bapak ajarkan kepada Saya. Saya berharap, ilmu yang Bapak ajarkan dan yang Saya dapatkan dapat bermanfaat dimasa mendatang sampai yaumul akhir, Aamiin aamin yarabbal 'alamin. Langsung saja, tanpa berlama lagi, Saya akan langsung menjabarkan semua tugas kali ini.
+<p align="justify">Alhamdulillah hirabbil 'alamin, telah sampailah kita diakhir perkuliahan dari mata kuliah pemrograman mobile-1. Di repository ini Saya bertujuan untuk menuntaskan tugas UAS dari mata kuliah tersebut. Terimakasih untuk Bapak Donny Maulana, S.Kom., M.M.S.I. selaku dosen pengampu, sekali lagi Saya mengucapkan terimakasih yang sebesar-besarnya atas bimbingan dan pelajaran yang Bapak ajarkan kepada Saya. Saya berharap, ilmu yang Bapak ajarkan dan yang Saya dapatkan dapat bermanfaat dimasa mendatang sampai yaumul akhir, Aamiin aamin yarabbal 'alamin. Langsung saja, tanpa berlama lagi, Saya akan langsung menjabarkan semua tugas kali ini.</p>
 
 ## PERINTAH TUGAS
-Perintah tugas kali ini adalah mengumpulkan semua hasil yang sudah dibuat dari pertemuan pertama sampai akhir, hasil - hasil tersebut digabungkan dalam satu Aplikasi. Berikut ini semua code yang telah Saya buat.
+<p align="justify">Perintah tugas kali ini adalah mengumpulkan semua hasil yang sudah dibuat dari pertemuan pertama sampai akhir, hasil - hasil tersebut digabungkan dalam satu Aplikasi. Berikut ini semua code yang telah Saya buat.</p>
 
 ## PENJELASAN APLIKASI
 Sebelumnya saya akan menjelaskan terlebih dahulu, ada apa saja didalam aplikasi ini. Berikut ini adalah daftarnya :
@@ -21,11 +21,11 @@ Sebelumnya saya akan menjelaskan terlebih dahulu, ada apa saja didalam aplikasi 
 - Activity Fragment , activity ini adalah sebuah activity yang terdiri dari beberapa fragment. Disini fragmentnya berperan sebagai penampil film dengan genre yang berbeda, seperti action, comedy, dan romance.
 
 ### Semua Source Code
-Disini saya tidak akan menampilkan source codenya disini, karena akan terlalu banyak dan memakan tempat dan hanya membuat pusing melihatnya. Saya sudah push semua file dari project yang sudah saya buat dan jika menginginkan bisa mendownload beberapa file yang dibutuhkan saja atau clone repository ini sepenuhnya. Sebagai gantinya, Saya hanya akan menjelaskan sedikit dari apa saja yang sudah saya kerjakan.
+<p align="justify">Disini saya tidak akan menampilkan source codenya disini, karena akan terlalu banyak dan memakan tempat dan hanya membuat pusing melihatnya. Saya sudah push semua file dari project yang sudah saya buat dan jika menginginkan bisa mendownload beberapa file yang dibutuhkan saja atau clone repository ini sepenuhnya. Sebagai gantinya, Saya hanya akan menjelaskan sedikit dari apa saja yang sudah saya kerjakan.</p>
 
 - Source Code Splash Launcher
   - SplashScreen.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/SplashScreen.java)<br>
-    Didalamnya berisi code java, untuk menjalankan fungsi splash launcher. Lebih jelasnya splash launcher ini adalah menampilkan gambar/logo/icon ketika kita pertama kali membuka             aplikasi, atau sebelum menuju kehalaman utama.
+    <p align="justify">Didalamnya berisi code java, untuk menjalankan fungsi splash launcher. Lebih jelasnya splash launcher ini adalah menampilkan gambar/logo/icon ketika kita pertama kali membuka aplikasi, atau sebelum menuju kehalaman utama.</p>
   - backgroundlauncher.xml [Lihat File](TugasUAS/app/src/main/res/drawable/backgroundlauncher.xml)<br>
     Ini adalah logo yang saya gunakan, Saya menggunakan logo dari channel youtube yang saya punya yaitu CREATIVEGG.
   - Hasil Run<br>
@@ -37,23 +37,24 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/123f5194-2c55-4b
 
 - Source Code Utama
   - MainActivity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/MainActivity.java)<br>
-    Di MainActivity ini berisi program java yang memiliki fungsi penghubung dari semua activity yang disebut intent dan fungsi tombol open alarm dan open map. Saya beri nama file ini         Main karena disinilah fungsi paling awal dari halaman awal.
+    <p align="justify">Di MainActivity ini berisi program java yang memiliki fungsi penghubung dari semua activity yang disebut intent dan fungsi tombol open alarm dan open map. Saya beri nama file ini Main karena disinilah fungsi paling awal dari halaman awal.</p>
   - activity_main.xml [Lihat File](TugasUAS/app/src/main/res/layout/activity_main.xml)<br>
-    Ini adalah layout dari halaman awal aplikasi ini. Layout ini terhubung dengan MainActivity.java tadi. Dilayout ini menampilkan semua tombol tombol dari berbagai activity dan program      yang sudah dijelaskan diatas. Beginilah tampilan dari layoutnya :<br>
+    <p align="justify">Ini adalah layout dari halaman awal aplikasi ini. Layout ini terhubung dengan MainActivity.java tadi. Dilayout ini menampilkan semua tombol tombol dari berbagai activity dan program yang sudah dijelaskan diatas. Beginilah tampilan dari layoutnya :</p> <br>
+    
     ![image](https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/a581874e-e647-4b21-8f19-4f90125967a3)
     > Iconnya disini sudah Saya usahakan agar sesuai dengan identitas dari activitynya.
   - AndroidManifest.xml [Lihat File](TugasUAS/app/src/main/AndroidManifest.xml)<br>
-    Di AndroidManifest.xml ini berfungsi untuk mengaktifkan permission yang dibutuhkan dibeberapa activity. Selain itu, AndroidManifest.xml ini juga harus dilakukan pengeditan jika kita      menambah sebuah tombol atau activity baru yang berhubungan dengan intent, agar activity tersebut dapat dibuka nantinya.
+    <p align="justify">Di AndroidManifest.xml ini berfungsi untuk mengaktifkan permission yang dibutuhkan dibeberapa activity. Selain itu, AndroidManifest.xml ini juga harus dilakukan pengeditan jika kita menambah sebuah tombol atau activity baru yang berhubungan dengan intent, agar activity tersebut dapat dibuka nantinya.</p>
   - string.xml [Lihat File](TugasUAS/app/src/main/res/values/strings.xml)<br>
     String.xml ini adalah sebuah values, values ini berisi teks-teks dari tombol - isi - atau apapun itu yang berhubungan dengan teks.
   - colors.xml [Lihat File](TugasUAS/app/src/main/res/values/colors.xml)<br>
-    Sama seperti string, colors.xml ini juga merupakan sebuah values, tapi bedanya values ini berisi code-code warna yang sudah dibuat menjadi ID atau identitas yang bertujuan untuk          memudahkan dalam pemanggilan warnanya di dalam coding.<br><br>
+    <p align="justify">Sama seperti string, colors.xml ini juga merupakan sebuah values, tapi bedanya values ini berisi code-code warna yang sudah dibuat menjadi ID atau identitas yang bertujuan untuk memudahkan dalam pemanggilan warnanya di dalam coding.</p><br><br>
 
 - Source Code Activity Hello World
   - HelloActivity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/HelloActivity.java)<br>
     Disini saya tidak mengubah apapun isi dari javanya, dengan kata lain saya buat default sedari awal dibuat.
   - activity_hello.xml [Lihat File](TugasUAS/app/src/main/res/layout/activity_hello.xml)<br>
-    Seperti yang sudah diketahui ini merupakan layout yang terhubung dengan java nya. Saya hanya menambahkan textview untuk menampilkan android:text "hello_world" nya (text sudah ada di      string.xml), selain itu saya juga mengubah warna text dan menambahkan background agar terlihat lebih menarik.
+    <p align="justify">Seperti yang sudah diketahui ini merupakan layout yang terhubung dengan java nya. Saya hanya menambahkan textview untuk menampilkan android:text "hello_world" nya (text sudah ada di string.xml), selain itu saya juga mengubah warna text dan menambahkan background agar terlihat lebih menarik.</p>
   - Hasil Run<br>
     Berikut adalah hasil run nya :<br>
 
@@ -77,7 +78,7 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/c80d6b3f-3c2e-41
   - SianidaActivity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/SianidaActivity.java)<br>
     Disini saya tidak mengubah apapun isi dari javanya, dengan kata lain saya buat default sedari awal dibuat.
   - activity_sianida.xml [Lihat File](TugasUAS/app/src/main/res/layout/activity_sianida.xml)<br>
-    Layout inilah yang mempengaruhi dan memberikan alasan kenapa di javanya tidak ada perubahan. Disini, digunakan sebuah scrollview yang bisa menjadikan text yang begitu panjang dan         tidak muat dalam satu layar penuh, maka dengan ini kita bisa membaca semua isi kontennya hanya dengan cara scroll layar.
+    <p align="justify">Layout inilah yang mempengaruhi dan memberikan alasan kenapa di javanya tidak ada perubahan. Disini, digunakan sebuah scrollview yang bisa menjadikan text yang begitu panjang dan tidak muat dalam satu layar penuh, maka dengan ini kita bisa membaca semua isi kontennya hanya dengan cara scroll layar.</p>
   - Hasil Run<br>
     Berikut adalah hasil run nya :<br>
 
@@ -87,7 +88,7 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/70779eef-1c2f-48
 
 - Source Code Activity TwoActivity
   - TwoActActivity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/TwoactActivity.java) & TwoAct2Activity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/Twoact2Activity.java)<br>
-    Kedua java berisi fungsi untuk menjalankan program perpesanan. Kedua java tersebut memiliki peran masing-masing, yang pertama untuk pengirim dan yang kedua untuk fungsi ketika pesan     berhasil terkirim.
+    <p align="justify">Kedua java berisi fungsi untuk menjalankan program perpesanan. Kedua java tersebut memiliki peran masing-masing, yang pertama untuk pengirim dan yang kedua untuk fungsi ketika pesan berhasil terkirim.</p>
   - activity_twoact [Lihat File](TugasUAS/app/src/main/res/layout/activity_twoact.xml) & activity_twoact2 [Lihat File](TugasUAS/app/src/main/res/layout/activity_twoact2.xml)<br>
     Kedua layout ini merupakan tampilannya, yang pertama berfungsi menampilkan saat mengirim pesan dan yang kedua menampilkan saat pesan berhasil terkirim.
   - Hasil Run<br>
@@ -148,9 +149,11 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/bac81232-d106-48
 <br><br>
 
 - Source Code Activity Fragment <br>
-  Berbeda dari activity sebelumnya, di activity ini memerlukan banyak java dan layout, karena activity ini terdiri dari beberapa halaman. Perintah tugas dari activity ini adalah, membuat sebuah program atau aplikasi menampilkan daftar film sesuai dengan genre nya. Dan genre yang diperintahkan untuk dibuat ada tiga buah, yakni Action, Comedy, dan Romance.
+  <p align="justify">Berbeda dari activity sebelumnya, di activity ini memerlukan banyak java dan layout, karena activity ini terdiri dari beberapa halaman. Perintah tugas dari activity ini adalah, membuat sebuah program atau aplikasi menampilkan daftar film sesuai dengan genre nya. Dan genre yang diperintahkan untuk dibuat ada tiga buah, yakni Action, Comedy, dan Romance.</p>
+  
   - FragmentActivity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/FragmentActivity.java)<br>
     Java yang ini berfungsi sebagai fungsi dari halaman utamanya. Didalamnya terdapat code untuk switch atau berpindah antar fragment dari action/comedy/romance. Nah agar code fragment tersebut dapat berjalan, perlu ditambahkan sebuah depedencies baru di build.gradlenya, berikut dependenciesnya :<br>
+    
     ```
     implementation("androidx.fragment:fragment:$fragmentVersion")
     ```
@@ -162,7 +165,8 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/bac81232-d106-48
     ![image](https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/1eac1dde-3762-4064-a70e-85c2b5b80574) <br>
 
   - FirstFragment.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/FirstFragment.java) , SecondFragment.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/SecondFragment.java) , ThirdFragment.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/ThirdFragment.java) <br>
-    Nah ketiga java ini didalamnya terdapat fungsi untuk menampilkan list film yang ada, dan fungsi memutar trailer video ketika poster atau gambar filmnya ditekan. Video tersebut berasal dari link youtube yang saya tambahkan sesuai dengan film apa yang ada di masing masing fragment nya. Untuk menggunakan fungsi ini perlu ditambahkan depedencies di build.gradle nya. Saya menggunakan library yang bernama youtube player dari pierfrancescosoffritti, berikut dependenciesnya :<br>
+    <p align="justify">Nah ketiga java ini didalamnya terdapat fungsi untuk menampilkan list film yang ada, dan fungsi memutar trailer video ketika poster atau gambar filmnya ditekan. Video tersebut berasal dari link youtube yang saya tambahkan sesuai dengan film apa yang ada di masing masing fragment nya. Untuk menggunakan fungsi ini perlu ditambahkan depedencies di build.gradle nya. Saya menggunakan library yang bernama youtube player dari pierfrancescosoffritti, berikut dependenciesnya :</p><br>
+    
     ```
     implementation("com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1")
     ```
@@ -178,8 +182,8 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/2698f3d6-dee6-4c
 <br><br>
 
 ## PENUTUP
-Baik itulah semua rangkuman hasil pengerjaan aplikasi yang telah saya buat, dari tugas pertama hingga yang terakhir ini. Sebenarnya aplikasi ini masih jauh dari kata sempurna dan masih sangat bisa untuk dikembangkan lebih jauh lagi. Saya sangat berterimakasih karena sudah menyempatkan membaca seluruh isi repository ini. Sekali lagi, Saya juga sangat berterimakasih kepada Bapak Donny yang telah mengajarkan Saya pemrograman mobile. Semoga pembelajaran ini tidak terhenti begitu saja, semoga kita semua akan sukses bersama.<br>
-Sekian dari repository yang telah Saya buat ini, jika ada kesalahan kata atau kalimat Saya memohon maaf. Sampai jumpa lagi di lain waktu.<br>
+<p align="justify">Baik itulah semua rangkuman hasil pengerjaan aplikasi yang telah saya buat, dari tugas pertama hingga yang terakhir ini. Sebenarnya aplikasi ini masih jauh dari kata sempurna dan masih sangat bisa untuk dikembangkan lebih jauh lagi. Saya sangat berterimakasih karena sudah menyempatkan membaca seluruh isi repository ini. Sekali lagi, Saya juga sangat berterimakasih kepada Bapak Donny yang telah mengajarkan Saya pemrograman mobile. Semoga pembelajaran ini tidak terhenti begitu saja, semoga kita semua akan sukses bersama. 
+Sekian dari repository yang telah Saya buat ini, jika ada kesalahan kata atau kalimat Saya memohon maaf. Sampai jumpa lagi di lain waktu.</p><br><br>
 
 <p align="center"><b>TERIMAKASIH</b></p>
 <p align="center">Copyrights &copy; Rhendy Diki Nugraha 2024</p>
