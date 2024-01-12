@@ -28,7 +28,7 @@ Disini saya tidak akan menampilkan source codenya disini, karena akan terlalu ba
     Didalamnya berisi code java, untuk menjalankan fungsi splash launcher. Lebih jelasnya splash launcher ini adalah menampilkan gambar/logo/icon ketika kita pertama kali membuka             aplikasi, atau sebelum menuju kehalaman utama.
   - backgroundlauncher.xml [Lihat File](TugasUAS/app/src/main/res/drawable/backgroundlauncher.xml)<br>
     Ini adalah logo yang saya gunakan, Saya menggunakan logo dari channel youtube yang saya punya yaitu CREATIVEGG.
-  - Hasil Run
+  - Hasil Run<br>
     Berikut ini adalah hasil run nya :<br>
     
 https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/123f5194-2c55-4b92-a469-30ee7635af6e
@@ -54,7 +54,7 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/123f5194-2c55-4b
     Disini saya tidak mengubah apapun isi dari javanya, dengan kata lain saya buat default sedari awal dibuat.
   - activity_hello.xml [Lihat File](TugasUAS/app/src/main/res/layout/activity_hello.xml)<br>
     Seperti yang sudah diketahui ini merupakan layout yang terhubung dengan java nya. Saya hanya menambahkan textview untuk menampilkan android:text "hello_world" nya (text sudah ada di      string.xml), selain itu saya juga mengubah warna text dan menambahkan background agar terlihat lebih menarik.
-  - Hasil Run
+  - Hasil Run<br>
     Berikut adalah hasil run nya :<br>
 
 https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/054f30de-31d8-43ca-a7d5-74ec8e0cb802
@@ -66,7 +66,7 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/054f30de-31d8-43
     Tentunya disini berisi code java untuk menjalankan fungsi perhitungan dari rumus fibonnaci. Bilangan fibonnaci adalah bilangan yang rumusnya adalah menambah sebuah bilangan dengan        bilangan sebelumnya. Contohnya 1, 1, 2, 3, 5, 8...
   - activity_count.xml [Lihat File](TugasUAS/app/src/main/res/layout/activity_count.xml)<br>
     Ini adalah layout dari activity count, ada beberapa tombol disini seperti set limit, count, dan reset. Angka yang ditampilkan juga sudah menggunakan code warna, agar setiap angka         yang ditampilkan memiliki warna yang berbeda dengan angka sebelumnya.
-  - Hasil Run
+  - Hasil Run<br>
     Berikut adalah hasil run nya :<br>
 
 https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/c80d6b3f-3c2e-4177-804d-c91675139b65
@@ -78,7 +78,7 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/c80d6b3f-3c2e-41
     Disini saya tidak mengubah apapun isi dari javanya, dengan kata lain saya buat default sedari awal dibuat.
   - activity_sianida.xml [Lihat File](TugasUAS/app/src/main/res/layout/activity_sianida.xml)<br>
     Layout inilah yang mempengaruhi dan memberikan alasan kenapa di javanya tidak ada perubahan. Disini, digunakan sebuah scrollview yang bisa menjadikan text yang begitu panjang dan         tidak muat dalam satu layar penuh, maka dengan ini kita bisa membaca semua isi kontennya hanya dengan cara scroll layar.
-  - Hasil Run
+  - Hasil Run<br>
     Berikut adalah hasil run nya :<br>
 
 https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/70779eef-1c2f-4886-9f51-d310ac4d0125
@@ -90,7 +90,7 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/70779eef-1c2f-48
     Kedua java berisi fungsi untuk menjalankan program perpesanan. Kedua java tersebut memiliki peran masing-masing, yang pertama untuk pengirim dan yang kedua untuk fungsi ketika pesan     berhasil terkirim.
   - activity_twoact [Lihat File](TugasUAS/app/src/main/res/layout/activity_twoact.xml) & activity_twoact2 [Lihat File](TugasUAS/app/src/main/res/layout/activity_twoact2.xml)<br>
     Kedua layout ini merupakan tampilannya, yang pertama berfungsi menampilkan saat mengirim pesan dan yang kedua menampilkan saat pesan berhasil terkirim.
-  - Hasil Run
+  - Hasil Run<br>
     Berikut adalah hasil run nya :<br>
 
 https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/4f7542d0-9643-4733-935f-1e9910692f78
@@ -122,7 +122,7 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/4f7542d0-9643-47
         <action android:name="android.intent.action.SET_ALARM" />
 
     ```
-  - Hasil Run
+  - Hasil Run<br>
     Berikut adalah hasil run nya :<br>
 
 https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/13a8223e-6984-4696-b750-30c62c9aef11
@@ -140,7 +140,7 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/13a8223e-6984-46
             startActivity(map);
         });
     ```
-  - Hasil Run
+  - Hasil Run<br>
     Berikut adalah hasil run nya :<br>
 
 https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/bac81232-d106-4890-ba58-2bab1215568f
@@ -170,7 +170,7 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/bac81232-d106-48
 
   - fragment_first.xml [Lihat File](TugasUAS/app/src/main/res/layout/fragment_first.xml) , fragment_second.xml [Lihat File](TugasUAS/app/src/main/res/layout/fragment_second.xml) , fragment_third.xml [Lihat File](TugasUAS/app/src/main/res/layout/fragment_third.xml) <br>
     Ketiga xml ini merupakan layout atau tampilan dari masing-masing fragment, didalamnya menampilkan daftar film sesuai dengan genrenya. Layout ini terhubung dengan ketiga java diatas.
-  - Hasil Run
+  - Hasil Run <br>
     Berikut adalah hasil run nya : <br>
 
 https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/2698f3d6-dee6-4c02-8810-b073784f6668
