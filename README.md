@@ -147,6 +147,31 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/bac81232-d106-48
 
 <br><br>
 
-- Source Code Activity Fragment
+- Source Code Activity Fragment <br>
   Berbeda dari activity sebelumnya, di activity ini memerlukan banyak java dan layout, karena activity ini terdiri dari beberapa halaman. Perintah tugas dari activity ini adalah, membuat sebuah program atau aplikasi menampilkan daftar film sesuai dengan genre nya. Dan genre yang diperintahkan untuk dibuat ada tiga buah, yakni Action, Comedy, dan Romance.
-  - 
+  - FragmentActivity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/FragmentActivity.java)<br>
+    Java yang ini berfungsi sebagai fungsi dari halaman utamanya. Didalamnya terdapat code untuk switch atau berpindah antar fragment dari action/comedy/romance. Nah agar code fragment tersebut dapat berjalan, perlu ditambahkan sebuah depedencies baru di build.gradlenya, berikut dependenciesnya :<br>
+    ```
+    implementation("androidx.fragment:fragment:$fragmentVersion")
+    ```
+    > Perlu diingat jika menambahkan dependencies baru, perlu dilakukan sync terlebih dahulu.
+
+  - activity_fragment.xml [Lihat File](TugasUAS/app/src/main/res/layout/activity_fragment.xml)<br>
+    Inilah layout yang terhubung dengan FragmentActivity.java, layout ini adalah tampilan basic atau tampilan utama yang masih kosong, didalamnya terdapat 3 tombol untuk berpindah antar fragment nya. Berikut ini tampilannya :<br>
+
+    ![image](https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/1eac1dde-3762-4064-a70e-85c2b5b80574) <br>
+
+  - FirstFragment.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/FirstFragment.java) , SecondFragment.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/SecondFragment.java) , ThirdFragment.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/ThirdFragment.java) <br>
+    Nah ketiga java ini didalamnya terdapat fungsi untuk menampilkan list film yang ada, dan fungsi memutar trailer video ketika poster atau gambar filmnya ditekan. Video tersebut berasal dari link youtube yang saya tambahkan sesuai dengan film apa yang ada di masing masing fragment nya. Untuk menggunakan fungsi ini perlu ditambahkan depedencies di build.gradle nya. Saya menggunakan library yang bernama youtube player dari pierfrancescosoffritti, berikut dependenciesnya :<br>
+    ```
+    implementation("com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1")
+    ```
+    > Perlu diingat jika menambahkan dependencies baru, perlu dilakukan sync terlebih dahulu.
+
+  - fragment_first.xml [Lihat File](TugasUAS/app/src/main/res/layout/fragment_first.xml) , fragment_second.xml [Lihat File](TugasUAS/app/src/main/res/layout/fragment_second.xml) , fragment_third.xml [Lihat File](TugasUAS/app/src/main/res/layout/fragment_third.xml) <br>
+    Ketiga xml ini merupakan layout atau tampilan dari masing-masing fragment, didalamnya menampilkan daftar film sesuai dengan genrenya. Layout ini terhubung dengan ketiga java diatas.
+  - Hasil Run
+    Berikut adalah hasil run nya :
+
+    
+
