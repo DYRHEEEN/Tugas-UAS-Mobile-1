@@ -171,7 +171,15 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/bac81232-d106-48
   - fragment_first.xml [Lihat File](TugasUAS/app/src/main/res/layout/fragment_first.xml) , fragment_second.xml [Lihat File](TugasUAS/app/src/main/res/layout/fragment_second.xml) , fragment_third.xml [Lihat File](TugasUAS/app/src/main/res/layout/fragment_third.xml) <br>
     Ketiga xml ini merupakan layout atau tampilan dari masing-masing fragment, didalamnya menampilkan daftar film sesuai dengan genrenya. Layout ini terhubung dengan ketiga java diatas.
   - Hasil Run
-    Berikut adalah hasil run nya :
+    Berikut adalah hasil run nya : <br>
 
-    
+https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/2698f3d6-dee6-4c02-8810-b073784f6668
 
+<br><br>
+
+## PENUTUP
+Baik itulah semua rangkuman hasil pengerjaan aplikasi yang telah saya buat, dari tugas pertama hingga yang terakhir ini. Sebenarnya aplikasi ini masih jauh dari kata sempurna dan masih sangat bisa untuk dikembangkan lebih jauh lagi. Saya sangat berterimakasih karena sudah menyempatkan membaca seluruh isi repository ini. Sekali lagi, Saya juga sangat berterimakasih kepada Bapak Donny yang telah mengajarkan Saya pemrograman mobile. Semoga pembelajaran ini tidak terhenti begitu saja, semoga kita semua akan sukses bersama.<br>
+Sekian dari repository yang telah Saya buat ini, jika ada kesalahan kata atau kalimat Saya memohon maaf. Sampai jumpa lagi di lain waktu.<br>
+
+<p align="center"><b>TERIMAKASIH</b></p>
+<p align="center">Copyrights &copy; Rhendy Diki Nugraha 2024</p>
