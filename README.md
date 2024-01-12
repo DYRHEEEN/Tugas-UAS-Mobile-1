@@ -86,9 +86,9 @@ https://github.com/DYRHEEEN/Tugas-UAS-Mobile-1/assets/151630441/70779eef-1c2f-48
 <br><br>
 
 - Source Code Activity TwoActivity
-  - TwoActActivity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/TwoActActivity.java) & TwoAct2Activity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/TwoAct2Activity.java)<br>
+  - TwoActActivity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/TwoactActivity.java) & TwoAct2Activity.java [Lihat File](TugasUAS/app/src/main/java/com/example/tugassepuluh/Twoact2Activity.java)<br>
     Kedua java berisi fungsi untuk menjalankan program perpesanan. Kedua java tersebut memiliki peran masing-masing, yang pertama untuk pengirim dan yang kedua untuk fungsi ketika pesan     berhasil terkirim.
-  - activity_twoact [Lihat File](TugasUAS/app/src/main/res/layout/activity_sianida.xml) & activity_twoact2 [Lihat File](TugasUAS/app/src/main/res/layout/activity_twoact2.xml)<br>
+  - activity_twoact [Lihat File](TugasUAS/app/src/main/res/layout/activity_twoact.xml) & activity_twoact2 [Lihat File](TugasUAS/app/src/main/res/layout/activity_twoact2.xml)<br>
     Kedua layout ini merupakan tampilannya, yang pertama berfungsi menampilkan saat mengirim pesan dan yang kedua menampilkan saat pesan berhasil terkirim.
   - Hasil Run
     Berikut adalah hasil run nya :<br>
